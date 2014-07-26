@@ -1,6 +1,6 @@
 # Dockerfile for adding confd to a base image
 
-FROM shift/coreos-ubuntu-etcd:latest
+FROM shift/coreos-centos-etcd:latest
 
 MAINTAINER Vincent Palmer <shift-gh@someone.section.me>
 
